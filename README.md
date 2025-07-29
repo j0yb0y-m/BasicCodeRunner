@@ -48,7 +48,7 @@ A secure, multi-language code execution tool that compiles and runs source files
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/code-runner.git
+git clone https://github.com/j0yb0y-m/BasicCodeRunnner.git
 cd code-runner
 
 # Create build directory
@@ -136,4 +136,4 @@ Contributions are welcome! Please follow these guidelines:
 
 ## License
 
-[MIT License](LICENSE)
+[License](LICENSE)
