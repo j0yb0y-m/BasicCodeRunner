@@ -49,14 +49,10 @@ A secure, multi-language code execution tool that compiles and runs source files
 ```bash
 # Clone repository
 git clone https://github.com/j0yb0y-m/BasicCodeRunnner.git
-cd code-runner
+cd BasicCodeRunner
 
-# Create build directory
-mkdir build && cd build
-
-# Configure and build
-cmake ..
-cmake --build .
+# Compile
+g++ code_runner.cpp -o code_runner
 ```
 
 ## Usage
